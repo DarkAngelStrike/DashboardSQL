@@ -10,7 +10,7 @@ From:
    http://youtu.be/tKMEM0yL7L8
 
    http://youtu.be/BkdH1f-_b5s
-      
-Usage: 
- 
+
+Usage:
+
    SQL> select * from table(jss.gtop(48,5));
