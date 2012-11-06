@@ -1,6 +1,8 @@
 DashboardSQL
 ============
 
+SQL Dashboard by Jagjeet Singh.
+
 From:
 
    http://jagjeet.wordpress.com/2012/09/20/sql-dashboard-v2
